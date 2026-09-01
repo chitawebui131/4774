@@ -1,4 +1,4 @@
-# \# First program
+# README
 
 # 4774
 
